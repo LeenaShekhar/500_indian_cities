@@ -14,5 +14,5 @@
 
 This dataset was downloaded from Kaggle.
 
-Kaggle website: https://www.kaggle.com/ <br />
-Link to dataset: https://www.kaggle.com/zed9941/top-500-indian-cities
+[Kaggle website] (https://www.kaggle.com/) <br />
+[Link to dataset] (https://www.kaggle.com/zed9941/top-500-indian-cities)
