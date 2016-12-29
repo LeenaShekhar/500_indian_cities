@@ -12,8 +12,7 @@
 2. I also used plotly library for the first time to create scattergeo plots. 
 
 
-Note:
 This dataset was downloaded from Kaggle.
 
-Kaggle website: https://www.kaggle.com/
+Kaggle website: https://www.kaggle.com/ <br />
 Link to dataset: https://www.kaggle.com/zed9941/top-500-indian-cities
